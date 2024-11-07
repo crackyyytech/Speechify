@@ -1,4 +1,4 @@
-pluginManagement {
+rpluginManagement {
     repositories {
         google()
         mavenCentral()
@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Podcast Player"
+rootProject.name = "Speechify"
 include ':app'
