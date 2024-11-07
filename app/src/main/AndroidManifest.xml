@@ -7,7 +7,7 @@
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@drawable/podcast_icon"
-        android:label="@string/app_name"
+        android:label="@string/Speechify"
         android:supportsRtl="true"
         android:theme="@style/Theme.PodcastPlayer"
         tools:targetApi="31">
